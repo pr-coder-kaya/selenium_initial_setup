@@ -1,7 +1,7 @@
 #selenium initial setup
 
-1.Download Selenium WebDriver on -> https://www.selenium.dev/downloads/
-2.Download Chrome Driver on -> https://chromedriver.chromium.org/downloads
+1. Download Selenium WebDriver on -> https://www.selenium.dev/downloads/
+2. Download Chrome Driver on -> https://chromedriver.chromium.org/downloads
 3. Write Demo class to launch browser
 4. Resolve issue that "“chromedriver” cannot be opened because the developer cannot be verified." -> only for macOS
     System Preference/Security & Preferences/General/Allow Anyway
